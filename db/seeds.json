@@ -1,0 +1,59 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "name": "Nairobi Area",
+      "image1": "https://a0.muscache.com/im/pictures/c6e07738-9d79-4c5e-870c-a337a3d685e9.jpg?im_w=720",
+      "image2": "https://a0.muscache.com/im/pictures/a0762de1-6047-40e7-be11-1c0aebfe190e.jpg?im_w=720",
+      "image3": "https://a0.muscache.com/im/pictures/8b3e9a21-5c0f-4da5-825e-a229420e4564.jpg?im_w=720",
+      "image4": "https://a0.muscache.com/im/pictures/9c155d0b-45d9-4796-b1ed-4506890ce9d7.jpg?im_w=720"
+      
+    },
+    {
+      "id": 2,
+      "name": "Kisumu Area",
+      "image1": "https://a0.muscache.com/im/pictures/a0762de1-6047-40e7-be11-1c0aebfe190e.jpg?im_w=720",
+      "image2": "https://a0.muscache.com/im/pictures/c6e07738-9d79-4c5e-870c-a337a3d685e9.jpg?im_w=720",
+      "image3": "https://a0.muscache.com/im/pictures/8b3e9a21-5c0f-4da5-825e-a229420e4564.jpg?im_w=720",
+      "image4": "https://a0.muscache.com/im/pictures/9c155d0b-45d9-4796-b1ed-4506890ce9d7.jpg?im_w=720"
+      
+    },
+    {
+      "id": 3,
+      "name": "Makadara Area",
+      "image3": "https://a0.muscache.com/im/pictures/8b3e9a21-5c0f-4da5-825e-a229420e4564.jpg?im_w=720",
+      "image1": "https://a0.muscache.com/im/pictures/a0762de1-6047-40e7-be11-1c0aebfe190e.jpg?im_w=720",
+      "image2": "https://a0.muscache.com/im/pictures/c6e07738-9d79-4c5e-870c-a337a3d685e9.jpg?im_w=720",
+      "image4": "https://a0.muscache.com/im/pictures/9c155d0b-45d9-4796-b1ed-4506890ce9d7.jpg?im_w=720"
+      
+    },
+    {
+      "id": 4,
+      "name": "Fedha Area",
+      "image3": "https://a0.muscache.com/im/pictures/8b3e9a21-5c0f-4da5-825e-a229420e4564.jpg?im_w=720",
+      "image1": "https://a0.muscache.com/im/pictures/a0762de1-6047-40e7-be11-1c0aebfe190e.jpg?im_w=720",
+      "image2": "https://a0.muscache.com/im/pictures/c6e07738-9d79-4c5e-870c-a337a3d685e9.jpg?im_w=720",
+      "image4": "https://a0.muscache.com/im/pictures/9c155d0b-45d9-4796-b1ed-4506890ce9d7.jpg?im_w=720"
+     
+    },
+    {
+      "id": 5,
+      "name": "Tassia Area",
+      "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-2324621/original/785298d4-00c0-4045-aac7-936ae265f79e.jpeg?im_w=720",
+      "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-2324621/original/785298d4-00c0-4045-aac7-936ae265f79e.jpeg?im_w=720",
+      "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-44397790/original/91af00cc-724d-4ecd-b06e-db14d836cd3b.jpeg?im_w=720",
+      "image4": "https://a0.muscache.com/im/pictures/miso/Hosting-19774280/original/e198832f-f0b7-4836-85b2-51ae07a677f9.jpeg?im_w=720"
+     
+    },
+    {
+      "id": 6,
+      "name": "Pipeline ",
+      "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-2324621/original/785298d4-00c0-4045-aac7-936ae265f79e.jpeg?im_w=720",
+      "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-2324621/original/785298d4-00c0-4045-aac7-936ae265f79e.jpeg?im_w=720",
+      "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-44397790/original/91af00cc-724d-4ecd-b06e-db14d836cd3b.jpeg?im_w=720",
+      "image4": "https://a0.muscache.com/im/pictures/miso/Hosting-19774280/original/e198832f-f0b7-4836-85b2-51ae07a677f9.jpeg?im_w=720"
+      
+    }
+ 
+  ]
+}
